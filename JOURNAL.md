@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Warm-up | Tier 1 | 8h | 4 |
+| Warm-up | Tier 1 | 9h | 4 |
 
 ## Contents
 
@@ -50,7 +50,7 @@ I wrote the code in C++ for the Arduino IDE, and it's short. At the top, I named
 
 ### 2026-10-02 — I wanted a buzzer that goes off when a pipe leaks, but I had never used an Arduino, so I got a lot wrong at first. I didn't know what parts to buy beyond the board and a buzzer, and I had to learn tha
 
-**1h**
+**2h**
 
 I wanted a buzzer that goes off when a pipe leaks, but I had never used an Arduino, so I got a lot wrong at first. I didn't know what parts to buy beyond the board and a buzzer, and I had to learn that the code is C++ and that I could use the Arduino IDE or VS Code. The biggest mistake was assuming the 3.5mm plug on the water probe would fit into the Uno. It doesn't, because the round socket on the board is only for power, and the probe is just two bare metal poles with no electronics inside. I fixed that by choosing a screw terminal breakout board for the plug, which needs no soldering. The wiring was the hardest part to picture until I saw it drawn as a circuit diagram: one probe wire goes to pin 2, the other to ground, and the buzzer goes to pin 8 and ground. I haven't built it yet, but once the parts arrive I'll test it with a damp paper towel before putting it under a pipe.
 
