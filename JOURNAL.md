@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Warm-up | Tier 1 | 7h | 4 |
+| Warm-up | Tier 1 | 8h | 4 |
 
 ## Contents
 
@@ -60,7 +60,7 @@ I wanted a buzzer that goes off when a pipe leaks, but I had never used an Ardui
 
 ### 2026-10-04 — The water detector is a simple circuit that sounds an alarm when it senses water. A 9V battery powers the circuit and feeds current to two metal probes placed close together near the floor or wherever
 
-**1h**
+**2h**
 
 The water detector is a simple circuit that sounds an alarm when it senses water. A 9V battery powers the circuit and feeds current to two metal probes placed close together near the floor or wherever a leak might happen. While the probes are dry, no current passes between them and nothing happens. When water touches both probes, it carries a tiny current across the gap. A transistor boosts that weak signal, and the amplified current switches on a buzzer, so you hear the alarm as soon as water shows up.
 
