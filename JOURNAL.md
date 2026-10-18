@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-18 – I’ve been teaching myself the Arduino Uno through online tutorials, and Tinkercad has been the easiest place to practice. I started by watching a few beginner videos to figure out what the board actua](#2026-10-18-ive-been-teaching-myself-the-arduino-uno-through-)
-2. [2026-10-18 – ![Screenshot 2026-10-18 163151](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/77e32d1ab241b232ea46fa981538f2e895fac2f576d3efcfeb9549bd39c803ba.png)](#2026-10-18-screenshot-2026-10-18-163151httpshalflifehackclub)
+2. [2026-10-18 – ![image_2026-10-18_171551487](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/da6f619a4f3ad6ce7f2867400786f73f5ec1fd98ec8cbb59ec5ba1911f4e0114.png)](#2026-10-18-image2026-10-18171551487httpshalflifehackclub-ass)
 
 ## Design
 
@@ -31,14 +31,14 @@ I’ve been teaching myself the Arduino Uno through online tutorials, and Tinker
 
 ![image_2026-10-18_163411209](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/fe8c4ebf616f614ac46d925322776f9fe80e9f76651f1f337349d3ebc5925af3.png)
 
-### 2026-10-18 – ![Screenshot 2026-10-18 163151](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/77e32d1ab241b232ea46fa981538f2e895fac2f576d3efcfeb9549bd39c803ba.png)
+### 2026-10-18 – ![image_2026-10-18_171551487](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/da6f619a4f3ad6ce7f2867400786f73f5ec1fd98ec8cbb59ec5ba1911f4e0114.png)
 
 **3h**
 
-![Screenshot 2026-10-18 163151](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/77e32d1ab241b232ea46fa981538f2e895fac2f576d3efcfeb9549bd39c803ba.png)
+![image_2026-10-18_171551487](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/da6f619a4f3ad6ce7f2867400786f73f5ec1fd98ec8cbb59ec5ba1911f4e0114.png)
 
-![Screenshot 2026-10-18 163340](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/86baf7a6cffd6ac4d145b0f3284acf08ae8a77cf59141752ded88a0ee9563874.png)
+After the last entry, I realized I had to use Wokwi, so I watched videos on making an Arduino Uno on YouTube
+ and  other platforms to learn CAD on Wokwi, and I will add some photos of attempts to make something like an Arduino Uno
+![image_2026-10-18_172154898](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/6bba7829eebde18ac39053687f115180ce16076c7f13ac06f9011b1d241ff191.png)
 
-![Screenshot 2026-10-18 163404](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/da16e5c030c9f53c71ff4d016472adc1ab2c5c4dd63775ad1ecab97586c62e9b.png)
-Read a file, added to memory
-I’ve been teaching myself the Arduino Uno through online tutorials, and Tinkercad has been the easiest place to practice. I started by watching a few beginner videos to figure out what the board actually does: the digital pins, the 5V and GND rails, and how a sketch tells it what to do. Then I opened Tinkercad’s circuit simulator and tried it myself. My first build was an LED on a breadboard with a resistor, wired to pin 13, and getting it to blink felt like a bigger deal than it should have. Since nothing is physical, I could rewire things and rerun the code as many times as I wanted without worrying about burning out a part. I got a few things wrong early on, like putting the LED in backwards and forgetting the resistor, but the simulator made those easy to spot and fix. Now I’m working up to buttons and sensors.
+![image_2026-10-18_172442624](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/ZB18468vV6xymMeGfUgN9PiGVu6vR4in/c625c388fc8cc39b8988c54e8f17665375e838e4fd2beed68d0459f75b4808b8.png)
